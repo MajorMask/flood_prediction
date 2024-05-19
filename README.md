@@ -17,3 +17,6 @@ My personal approach was:
 
 
 4. Model Hit-and-trial: There was no way to know which model would work better. Hence, I tried linear regression which was obviously a bad choice. Random Forest regression was fine but wasn't enough. Ensemble learning sort of ruined the R2-score. In the end, LGBM regressor made it through.
+
+The original notebook:
+https://www.kaggle.com/code/themajormask/flood-prediction/notebook
